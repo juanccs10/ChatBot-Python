@@ -6,3 +6,5 @@ Flask
 
 #Gunicorn
 Gunicorn
+
+Flask-cors
