@@ -1,0 +1,5 @@
+#Requerimientos
+# pip install -r requirements.txt
+
+#Flask
+Flask
